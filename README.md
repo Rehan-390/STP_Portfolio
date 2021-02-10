@@ -18,9 +18,5 @@ ajdjadaajdhasj
 					<li><a id="nav" href="#">Contact</a></li>
 				</ul>
 			</nav>
-				<div class="homeContent">
-                    <h1>Welcome <br> I'M <span class="homeColorText">Rehan</span class=""></h1>
-                    <p class="para">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores suscipit iste nesciunt modi obcaecati culpa facere accusamus eaque optio illo.
-                    </p>
+			
     </body>
