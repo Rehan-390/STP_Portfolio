@@ -26,8 +26,6 @@
 .container-fluid .top{
 	text-align: right;
 	color: red (129, 120, 120);
-	padding: 1000px 0;
-
 }
 .container-fluid .navbar{
     display: flex;
@@ -116,8 +114,7 @@
 
 .section-2{
 	background-color: white;
-	padding-top: 65px;
-	padding-bottom: 45px;
+	padding: 125px 0px;
 	display: flex;
  }
  .sec-2-div-1{
@@ -243,16 +240,17 @@
 	text-align: center;
 	margin: 0 auto;
 	background-color: rgb(241, 238, 238);
-	padding-top: 50px;
+	padding: 75px 0px 35px 0px;
 }
 .section-3a h2{
-	font-size: 36px;
+	font-size: 44px;
 	font-weight: 500;
 }
 .section-3a p{
 	padding: 25px 0px 55px 0px;
 	width: 30%;
 	margin: 0 auto;
+	font-size: 18px;
 }
 
 				/*  section-3b */
@@ -274,7 +272,7 @@
 
 .sec-3b-div1{
 	border-radius: 5px;
-    border: 2px solid red;
+    border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -299,7 +297,7 @@
 
 .sec-3b-div2{
 	border-radius: 5px;
-    border: 2px solid red;
+    border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -324,7 +322,7 @@
 
 .sec-3b-div3{
 	border-radius: 5px;
-    border: 2px solid red;
+    border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -352,6 +350,7 @@
 	justify-content: center;
 	justify-content: space-evenly;
 	padding-top: 30px;
+	padding-bottom: 90px;
 }
 .icon{
 	color: red;
@@ -364,7 +363,7 @@
 
 .sec-3c-div1{
 	border-radius: 5px;
-	border: 2px solid rgb(197, 197, 197);
+	border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -389,7 +388,7 @@
 
 .sec-3c-div2{
 	border-radius: 5px;
-	border: 2px solid rgb(197, 197, 197);
+	border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -414,7 +413,7 @@
 
 .sec-3c-div3{
 	border-radius: 5px;
-	border: 2px solid rgb(197, 197, 197);
+	border: 2px solid rgb(170, 170, 170);
 	padding: 30px;
 	text-align: center;
 	width: 28%;
@@ -503,9 +502,14 @@
 
 			/*  PART - 6 */
 
-.section-6a, .section-6b{
+.section-6a{
 	display: flex;
 	padding: 25px;
+}
+.section-6b{
+	display: flex;
+	padding: 25px;
+	padding-bottom: 100px; 
 }
 .section-title{
 	margin: 0 auto;
@@ -707,7 +711,7 @@
 
 				  
 .section-7a{
-	background-color:  rgb(199, 199, 199);
+	background-color:  rgb(218, 214, 214);
 	text-align: center;
 	padding: 50px 0px;
 }
@@ -725,7 +729,7 @@
 /*  */
 /*  */
 .section-7b{
-	background-color:  rgb(199, 199, 199);
+	background-color:  rgb(218, 214, 214);
 	display: flex;
 	padding-bottom: 50px;
 }
@@ -824,6 +828,7 @@ font-weight: 600;
 
 .section-9{
 	margin-left: 100px;
+	margin-bottom: 100px;
 }
 .section-9 form input{
 	padding: 10px 0px;
